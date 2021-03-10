@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 🌱 I Build websites and single page applications as  a "full-stack" developer
+
 ## Skills / Languages
  - `<HTML>` & `{CSS}` great
  - `JavaScript` great
