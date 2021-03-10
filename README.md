@@ -23,8 +23,11 @@ Here are some ideas to get you started:
  - `DATABASE` & `SQL` good
  - `Git` & `GitHub` good
  
- ## 🤔 ABOUT ME
- I am an Electrical Engineer in Micro and Nano Electronic Devices.\n
- Due to my interest in developing, I decided to change my working field.\n
+ ## About Me
+ I am an Electrical Engineer in Micro and Nano Electronic Devices.<br/>
+ Due to my interest in developing, I decided to change my working field.<br/>
  Therefore, I took online courses to learn web developing for more than one year.
 
+## Contact Me
+E-Mail: ali.nematollahi2020@gmail.com <br/>
+Linked-in: <a> www.linkedin.com/in/ali-nematollahi </a>
