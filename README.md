@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  - `Git` & `GitHub` good
  
  ## 🤔 ABOUT ME
- I am an Electrical Engineer in Micro and Nano Electronic Devices.
- Due to my interest in developing, I decided to change my working field.
+ I am an Electrical Engineer in Micro and Nano Electronic Devices.\n
+ Due to my interest in developing, I decided to change my working field.\n
  Therefore, I took online courses to learn web developing for more than one year.
 
