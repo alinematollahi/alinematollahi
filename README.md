@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills / Languages
- - `<HTML>` & `{CSS}`
- - `JavaScript`
- - `<? PHP ?>`
+ - `<HTML>` & `{CSS}` great
+ - `JavaScript` great
+ - `Angular.js` good
+ - `<? PHP ?>` great
+ - `Node.js` good
+ - `DATABASE` & `SQL` good
+ - `Git` & `GitHub` good
+ 
 
