@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills / Languages
-+- `<HTML>` & `{CSS}
+ - `<HTML>` & `{CSS}`
+ - `JavaScript`
+ - `<? PHP ?>`
 
