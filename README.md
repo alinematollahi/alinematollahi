@@ -23,4 +23,8 @@ Here are some ideas to get you started:
  - `DATABASE` & `SQL` good
  - `Git` & `GitHub` good
  
+ ## 🤔 ABOUT ME
+ I am an Electrical Engineer in Micro and Nano Electronic Devices.
+ Due to my interest in developing, I decided to change my working field.
+ Therefore, I took online courses to learn web developing for more than one year.
 
