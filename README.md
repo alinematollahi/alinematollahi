@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ## Contact Me
 E-Mail: ali.nematollahi2020@gmail.com <br/>
-Linked-in: <a> www.linkedin.com/in/ali-nematollahi </a>
+Linked-in: www.linkedin.com/in/ali-nematollahi
