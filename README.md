@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Skills / Languages
  - `<HTML>` & `{CSS}` great
  - `JavaScript` great
+ - `React.js` good
  - `Angular.js` good
  - `<? PHP ?>` great
  - `Node.js` good
