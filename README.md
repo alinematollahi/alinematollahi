@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🌱 I Build websites and single page applications as  a "full-stack" developer
+ 🌱 I Build websites and single page applications as  a "web developer"
 
 ## Skills / Languages
  - `<HTML>` & `{CSS}` great
