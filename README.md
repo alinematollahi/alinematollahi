@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  - `JavaScript` great
  - `React.js` good
  - `Angular.js` good
+ - `Bootstrap` & `Sass` good
  - `<? PHP ?>` great
  - `Node.js` good
  - `DATABASE` & `SQL` good
