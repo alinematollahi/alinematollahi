@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ## Skills / Languages
  - `<HTML>` & `{CSS}` great
  - `JavaScript` great
- - `React.js` good
- - `Angular.js` good
- - `Bootstrap` & `Sass` good
+ - `React.js` great
+ - `Material-UI` great
+ - `Bootstrap` & `Sass` great
  - `<? PHP ?>` great
  - `Node.js` good
  - `DATABASE` & `SQL` good
