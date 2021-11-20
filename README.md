@@ -33,7 +33,11 @@ Here are some ideas to get you started:
  ## About Me
 I'm an electronics engineer interested in programming. My great
 interest caused me to acquire sufficient knowledge and skills as
-a Full-Stack developer. I'm a fan of teamwork
+a full-stack developer.
+<br/>
+As a full-stack developer, my goal is to continually increase my
+programming skills in order to present better solutions to my
+employers and their clients.
 
 ## Contact Me
 E-Mail: ali.nematollahi2020@gmail.com <br/>
