@@ -25,13 +25,15 @@ Here are some ideas to get you started:
  - `Bootstrap` & `Sass` great
  - `<? PHP ?>` great
  - `Node.js` good
+ - `RESTful  API` great
+ - `GraphQL` good
  - `DATABASE` & `SQL` good
  - `Git` & `GitHub` good
  
  ## About Me
- I am an Electrical Engineer in Micro and Nano Electronic Devices.<br/>
- Due to my interest in developing, I decided to change my working field.<br/>
- Therefore, I took online courses to learn web developing for more than one year.
+I'm an electronics engineer interested in programming. My great
+interest caused me to acquire sufficient knowledge and skills as
+a Full-Stack developer. I'm a fan of teamwork
 
 ## Contact Me
 E-Mail: ali.nematollahi2020@gmail.com <br/>
