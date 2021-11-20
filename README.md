@@ -35,6 +35,9 @@ I'm an electronics engineer interested in programming. My great
 interest caused me to acquire sufficient knowledge and skills as
 a full-stack developer.
 <br/>
+I'm a fan of teamwork. According to my
+experience, it always results in better outcomes.
+<br/>
 As a full-stack developer, my goal is to continually increase my
 programming skills in order to present better solutions to my
 employers and their clients.
