@@ -23,19 +23,19 @@ Here are some ideas to get you started:
  - `React.js` great
  - `Material-UI` great
  - `Bootstrap` & `Sass` great
- - `<? PHP ?>` great
- - `Node.js` good
+ - `Node.js` great
+ - `<? PHP ?>` good
  - `RESTful  API` great
  - `GraphQL` good
  - `DATABASE` & `SQL` good
- - `Git` & `GitHub` good
+ - `Git` & `GitHub` great
  
  ## About Me
-I'm an electronics engineer interested in programming. My great
-interest caused me to acquire sufficient knowledge and skills as
+I am an electronics engineer interested in programming. My great
+interest, resulted in acquiring sufficient knowledge and skills as
 a full-stack developer.
 <br/>
-I'm a fan of teamwork. According to my
+I am a fan of teamwork. According to my
 experience, it always results in better outcomes.
 <br/>
 As a full-stack developer, my goal is to continually increase my
